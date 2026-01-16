@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Deep Learning Face Recognition Model<br>👯 I’m looking to collaborate on ML, IoT and UI/UX<br>🤝 I’m looking for help with Machine Learning and Data Science<br>🌱 I’m currently learning the working and libraries of Machine Learning<br>💬 Ask me about how I make up at 8 in the morning<br>⚡ Fun fact, I do know how to code, VIBE CODE obviously <br>📫 How to reach me: aradhyamayankrao2005@gmail.com<br>
+🔭 I’m currently working on a Deep Learning Face Recognition Model<br>👯 I’m looking to collaborate on ML, IoT and UI/UX<br>🤝 I’m looking for help with Machine Learning and Data Science<br>🌱 I’m currently learning the working and libraries of Machine Learning<br>💬 Ask me about how I wake up at 8 in the morning<br>⚡ Fun fact, I do know how to code, VIBE CODE obviously <br>📫 How to reach me: aradhyamayankrao2005@gmail.com<br>
 
 
 ## 🌐 Socials:
